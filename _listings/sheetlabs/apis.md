@@ -1,23 +1,20 @@
 ---
 name: Sheetlabs
-description: Sheetlabs turn spreadsheets into well-documented APIs, quickly and easily.
-  Many businesses still share product lists, service coverage areas, or other tabular
-  information with one another using spreadsheets attached to email. There are so
-  many things that can go wrong with this. Sheetlabs was built with the goal of making
-  it really easy for businesses to build APIs on top of their spreadsheets.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sheetlabs-logo.png
+x-slug: sheetlabs
+description: Turn your spreadsheets into APIs effortlessly. Eliminate the hassle and
+  human error of manually emailing and importing spreadsheets.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/6697-sheetlabs.jpg
 x-kinRank: "9"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Spreadsheets
-- Deployment
-created: "2018-02-26"
-modified: "2018-02-26"
-url: https://raw.githubusercontent.com/streamdata-gallery/spreadsheets/master/_listings/sheetlabs/apis.yaml
+x-alexaRank: "8798262"
+tags: Spreadsheets
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/sheetlabs/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/sheetlabs
 - type: x-twitter
   url: https://twitter.com/sheetlabs
 - type: x-website

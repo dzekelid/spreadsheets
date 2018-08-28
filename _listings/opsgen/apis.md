@@ -1,19 +1,16 @@
 ---
 name: OpsGen
+x-slug: opsgen
 description: Theres a better way to build connectivity for high-value enterprise,
   mobile, IoT, and startup applications. OpsGen can help you easily and rapidly create,
-  manage, and scale your API. Visit our website and find your way today!
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/opsgen-logo.png
+  manage, and scale your API. Visit our website and find your way!
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19009-opsgen.jpg
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Spreadsheets
-- Deployment
-- Database
-created: "2018-02-26"
-modified: "2018-02-26"
-url: https://raw.githubusercontent.com/streamdata-gallery/spreadsheets/master/_listings/opsgen/apis.yaml
+x-alexaRank: "0"
+tags: Spreadsheets
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/opsgen/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:

@@ -1,0 +1,318 @@
+{
+	"name": "Streadata.io API Gallery - Spreadsheets",
+	"description": "This is a repository of spreadsheets APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/spreadsheets.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://spreadsheets.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Restlet",
+			"x-api-slug": "restlet",
+			"description": "Restlet is a web API platform vendor, pioneer of RESTful web APIs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/90-restlet.jpg",
+			"humanURL": "https://restlet.com/",
+			"baseURL": "https:///",
+			"tags": "Spreadsheets",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/restlet/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Salesforce",
+			"x-api-slug": "salesforce",
+			"description": "Build more meaningful and lasting relationships and connect with your customers across sales, customer service, marketing, communities, apps, analytics, and more using our Customer Success Platform. Try for Free.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/175-salesforce.jpg",
+			"humanURL": "http://developer.salesforce.com",
+			"baseURL": "https://na14.salesforce.com//services/data/",
+			"tags": "Spreadsheets",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/salesforce/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Ragic",
+			"x-api-slug": "ragic",
+			"description": "Design powerful Web databases for your business with simple Excel-like interface. Business data management solution that just works.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2077-ragic.jpg",
+			"humanURL": "http://www.ragic.com/",
+			"baseURL": "https:///",
+			"tags": "Spreadsheets",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/ragic/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Smartsheet Platform",
+			"x-api-slug": "smartsheet-platform",
+			"description": "The leading work management platform you need to move from idea to impact ??? fast.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2565-smartsheet-platform.jpg",
+			"humanURL": "http://www.smartsheet.com/",
+			"baseURL": "https:///",
+			"tags": "Spreadsheets",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/smartsheet-platform/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Blockspring",
+			"x-api-slug": "blockspring",
+			"description": "Blockspring makes it easy to find data, run algorithms, automate reports, and enrich lists from Google Sheets, Excel, Tableau, Slack, and Bubble. Become the super analyst on your team, without needing to learn any new tools.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/6694-blockspring.jpg",
+			"humanURL": "https://api.blockspring.com/",
+			"baseURL": "https:///",
+			"tags": "Spreadsheets",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/blockspring/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Sheetlabs",
+			"x-api-slug": "sheetlabs",
+			"description": "Turn your spreadsheets into APIs effortlessly. Eliminate the hassle and human error of manually emailing and importing spreadsheets.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/6697-sheetlabs.jpg",
+			"humanURL": "https://sheetlabs.com",
+			"baseURL": "https:///",
+			"tags": "Spreadsheets",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/sheetlabs/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "DataHero",
+			"x-api-slug": "datahero",
+			"description": "DataHero is an online data visualization and data dashboard software platform that makes it easy to share insights with your team and your clients.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11275-datahero.jpg",
+			"humanURL": "https://datahero.com/",
+			"baseURL": "https:///",
+			"tags": "Spreadsheets",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/datahero/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Papa Parse",
+			"x-api-slug": "papa-parse",
+			"description": "I code stuff with my bare hands. Masters student. Gopher. Mormon. Farmboy. Space science! Not a conjurer of cheap tricks. https://t.co/Uax2sp17vM / @finerpixels",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11282-papa-parse.jpg",
+			"humanURL": "http://papaparse.com/",
+			"baseURL": "https:///",
+			"tags": "Spreadsheets",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/papa-parse/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Sheetsu",
+			"x-api-slug": "sheetsu",
+			"description": "Turn Google Sheets into API with Sheetsu in just 5 minutes.        Access Google Spreadsheets via REST API and use it as a data store or CMS. No???deploy, no???maintenance.        Without setup, one click away. Check it out.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18940-sheetsu.jpg",
+			"humanURL": "http://sheetsu.com/",
+			"baseURL": "https:///",
+			"tags": "Spreadsheets",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/sheetsu/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "OpsGen",
+			"x-api-slug": "opsgen",
+			"description": "Theres a better way to build connectivity for high-value enterprise, mobile, IoT, and startup applications. OpsGen can help you easily and rapidly create, manage, and scale your API. Visit our website and find your way!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19009-opsgen.jpg",
+			"humanURL": "http://opsgen.com",
+			"baseURL": "https:///",
+			"tags": "Spreadsheets",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/opsgen/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "EtherCalc",
+			"x-api-slug": "ethercalc",
+			"description": "Your data is saved on the web, and people can edit the same document at the same time. Everybodys changes are instantly reflected on all screens. Work together on inventories, survey forms, list management, brainstorming sessions and more!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/EtherCalc.png",
+			"humanURL": "https://ethercalc.net/",
+			"baseURL": "https:///",
+			"tags": "Spreadsheets",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/ethercalc/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Fieldbook",
+			"x-api-slug": "fieldbook",
+			"description": "Frustrated with tracking your work in spreadsheets? Fieldbook can help.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19066-fieldbook.jpg",
+			"humanURL": "https://fieldbook.com",
+			"baseURL": "https:///",
+			"tags": "Spreadsheets",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/fieldbook/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Microsoft Office 365",
+			"x-api-slug": "microsoft-office-365",
+			"description": "Integrate Office 365 REST APIs powered by Microsoft Graph into your own app to connect to files, calendars, mail and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-office.png",
+			"humanURL": "http://office.com",
+			"baseURL": "https://outlook.office365.com//ews/odata/Me",
+			"tags": "Spreadsheets",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/microsoft-office-365/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Fusion Tables",
+			"x-api-slug": "google-fusion-tables",
+			"description": "Fusion Tables is an experimental data visualization web application to gather, visualize, and share data tables.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-fusion-tables.jpg",
+			"humanURL": "https://developers.google.com/fusiontables/",
+			"baseURL": "://www.googleapis.com//fusiontables/v2",
+			"tags": "Spreadsheets",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/google-fusion-tables/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Sheets",
+			"x-api-slug": "google-sheets",
+			"description": "Google Sheets is an online spreadsheet app that lets users create and format spreadsheets and simultaneously work with other people. Google Sheets isn&rsquo;t only for consumers: its used every day by businesses and schools to manage spreadsheet data. With the new Sheets API v4 and Sheets add-ons, that data can be accessed by code as well as users.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-sheets-icon.png",
+			"humanURL": "https://developers.google.com/sheets/",
+			"baseURL": "https:///",
+			"tags": "Spreadsheets",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/google-sheets/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Cedalo",
+			"x-api-slug": "cedalo",
+			"description": "Individual IoT processes - 100% codefree",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clogo-273x273-542445.jpg",
+			"humanURL": "https://cedalo.com",
+			"baseURL": "https:///",
+			"tags": "Spreadsheets",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/cedalo/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Spreadsheets",
+	"include": [
+		{
+			"name": "Restlet",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/restlet/apis.yaml"
+		},
+		{
+			"name": "Salesforce",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/salesforce/apis.yaml"
+		},
+		{
+			"name": "Ragic",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/ragic/apis.yaml"
+		},
+		{
+			"name": "Smartsheet Platform",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/smartsheet-platform/apis.yaml"
+		},
+		{
+			"name": "Blockspring",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/blockspring/apis.yaml"
+		},
+		{
+			"name": "Sheetlabs",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/sheetlabs/apis.yaml"
+		},
+		{
+			"name": "DataHero",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/datahero/apis.yaml"
+		},
+		{
+			"name": "Papa Parse",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/papa-parse/apis.yaml"
+		},
+		{
+			"name": "Sheetsu",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/sheetsu/apis.yaml"
+		},
+		{
+			"name": "OpsGen",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/opsgen/apis.yaml"
+		},
+		{
+			"name": "EtherCalc",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/ethercalc/apis.yaml"
+		},
+		{
+			"name": "Fieldbook",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/fieldbook/apis.yaml"
+		},
+		{
+			"name": "Microsoft Office 365",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/microsoft-office-365/apis.yaml"
+		},
+		{
+			"name": "Google Fusion Tables",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/google-fusion-tables/apis.yaml"
+		},
+		{
+			"name": "Google Sheets",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/google-sheets/apis.yaml"
+		},
+		{
+			"name": "Cedalo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/spreadsheets/master/_listings/cedalo/apis.yaml"
+		}
+	]
+}
